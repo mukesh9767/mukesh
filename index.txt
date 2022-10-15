@@ -1,2 +1,5 @@
 animal
-
+birds 
+flowers
+fishesh 
+fruits
